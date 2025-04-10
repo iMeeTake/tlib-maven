@@ -5,10 +5,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.imeetake</groupId>
     <artifactId>tapi</artifactId>
-<<<<<<< HEAD
-    <version>1.0.0-1.21.1</version>
-=======
     <version>1.0.0-1.21.5</version>
->>>>>>> 20fe956 (Add 1.0.0-1.21.5)
     <description>Take’s API - a lightweight library for Minecraft modding.</description>
 </project>
