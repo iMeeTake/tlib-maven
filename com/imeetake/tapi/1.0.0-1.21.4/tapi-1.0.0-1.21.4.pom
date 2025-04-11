@@ -6,5 +6,5 @@
     <groupId>com.imeetake</groupId>
     <artifactId>tapi</artifactId>
     <version>1.0.0-1.21.4</version>
-    <description>Take’s API - a lightweight library for Minecraft modding.</description>
+    <description>Take's API - a lightweight library for Minecraft modding.</description>
 </project>
