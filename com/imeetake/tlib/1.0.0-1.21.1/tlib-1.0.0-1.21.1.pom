@@ -4,7 +4,7 @@
                              https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.imeetake</groupId>
-    <artifactId>tapi</artifactId>
+    <artifactId>tlib</artifactId>
     <version>1.0.0-1.21.1</version>
-    <description>Take's API - a lightweight library for Minecraft modding.</description>
+    <description>Take's Lib - a lightweight library for Minecraft modding.</description>
 </project>
