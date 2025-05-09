@@ -5,6 +5,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.imeetake</groupId>
     <artifactId>tlib</artifactId>
-    <version>1.0.0-1.21.5</version>
+    <version>1.2.0-1.21.4</version>
     <description>Take's Lib - a lightweight library for Minecraft modding.</description>
 </project>
