@@ -4,7 +4,7 @@
                              https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.imeetake</groupId>
-    <artifactId>tlib-forge</artifactId>
-    <version>1.4.1-1.20.1-beta</version>
+    <artifactId>tlib-fabric</artifactId>
+    <version>1.4.1-1.21.1</version>
     <description>Take's Lib - a lightweight library for Minecraft modding.</description>
 </project>
